@@ -13,6 +13,7 @@
 #     breadth_first_search(graph, 0)
 
 
+
 # Breadth First Search Поиск в ширину
 def check_relation(net, first, second):
     graph = {}
